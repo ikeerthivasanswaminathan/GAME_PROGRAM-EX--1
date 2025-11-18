@@ -1,6 +1,6 @@
 # GAME PROGRAMMING - EX - 1
 
-## EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
+## EXP - 1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
 
 ## Name : KEERTHIVASAN S
 ## Reg no : 212223220046
